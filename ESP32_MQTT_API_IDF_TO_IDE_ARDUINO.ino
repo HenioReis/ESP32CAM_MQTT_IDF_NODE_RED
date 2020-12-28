@@ -1,3 +1,9 @@
+/*
+Autor Hênio Reis
+Proj. Esp32cam e protocolo mqtt nativo idf
+Obs: aplicação de envio de imagem para node red para fins IA.
+Data: 15/08/2020
+*/
 #include "mqtt_client.h"
 #include <string.h>
 #include "freertos/FreeRTOS.h"
